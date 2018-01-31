@@ -1,0 +1,10 @@
+/home/koen/git/myfirst/bin/Debug/netcoreapp2.0/myfirst.deps.json
+/home/koen/git/myfirst/bin/Debug/netcoreapp2.0/myfirst.runtimeconfig.json
+/home/koen/git/myfirst/bin/Debug/netcoreapp2.0/myfirst.runtimeconfig.dev.json
+/home/koen/git/myfirst/bin/Debug/netcoreapp2.0/myfirst.dll
+/home/koen/git/myfirst/bin/Debug/netcoreapp2.0/myfirst.pdb
+/home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.csproj.CoreCompileInputs.cache
+/home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.AssemblyInfoInputs.cache
+/home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.AssemblyInfo.cs
+/home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.dll
+/home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.pdb
