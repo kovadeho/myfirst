@@ -8,3 +8,13 @@
 /home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.AssemblyInfo.cs
 /home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.dll
 /home/koen/git/myfirst/obj/Debug/netcoreapp2.0/myfirst.pdb
+C:\Users\KvanderHoeven\code\myfirst\bin\Debug\netcoreapp2.0\myfirst.deps.json
+C:\Users\KvanderHoeven\code\myfirst\bin\Debug\netcoreapp2.0\myfirst.runtimeconfig.json
+C:\Users\KvanderHoeven\code\myfirst\bin\Debug\netcoreapp2.0\myfirst.runtimeconfig.dev.json
+C:\Users\KvanderHoeven\code\myfirst\bin\Debug\netcoreapp2.0\myfirst.dll
+C:\Users\KvanderHoeven\code\myfirst\bin\Debug\netcoreapp2.0\myfirst.pdb
+C:\Users\KvanderHoeven\code\myfirst\obj\Debug\netcoreapp2.0\myfirst.csproj.CoreCompileInputs.cache
+C:\Users\KvanderHoeven\code\myfirst\obj\Debug\netcoreapp2.0\myfirst.AssemblyInfoInputs.cache
+C:\Users\KvanderHoeven\code\myfirst\obj\Debug\netcoreapp2.0\myfirst.AssemblyInfo.cs
+C:\Users\KvanderHoeven\code\myfirst\obj\Debug\netcoreapp2.0\myfirst.dll
+C:\Users\KvanderHoeven\code\myfirst\obj\Debug\netcoreapp2.0\myfirst.pdb

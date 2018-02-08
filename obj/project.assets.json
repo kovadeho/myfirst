@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/home/koen/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\KvanderHoeven\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/koen/git/myfirst/myfirst.csproj",
+      "projectUniqueName": "C:\\Users\\KvanderHoeven\\code\\myfirst\\myfirst.csproj",
       "projectName": "myfirst",
-      "projectPath": "/home/koen/git/myfirst/myfirst.csproj",
-      "packagesPath": "/home/koen/.nuget/packages/",
-      "outputPath": "/home/koen/git/myfirst/obj/",
+      "projectPath": "C:\\Users\\KvanderHoeven\\code\\myfirst\\myfirst.csproj",
+      "packagesPath": "C:\\Users\\KvanderHoeven\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KvanderHoeven\\code\\myfirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/koen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\KvanderHoeven\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

@@ -8,6 +8,7 @@ namespace myfirst
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hihihihih");
+            Console.ReadKey(true);
         }
     }
 }
